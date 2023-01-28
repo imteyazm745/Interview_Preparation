@@ -1,0 +1,6 @@
+3. What is inheritance?
+Inheritance is a way of structuring code so that it can be shared between different classes. Inheritance allows code to be shared between different classes and allows the same class to have different implementations in different contexts. Inheritance is a powerful tool that can make your code more maintainable and easier to understand. Inheritance is a fundamental concept in programming. It’s a way of structuring code so that it can be shared between different classes.
+
+What is a class variable?
+A class variable is a variable that is defined in a class and shared by all instances of the class. Class variables can be used to store information about an object, such as its name, its location in memory, and its state at any given time. Class variables are often used to store information that is shared by objects in the same class. For example, a class might have a variable called name that is shared by all instances of the class. Class variables are often created with the special keyword class.
+
